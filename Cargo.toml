@@ -1,0 +1,10 @@
+[package]
+name = "hadith-rs-rijal-jarh-tadil"
+version = "1.0.0"
+edition = "2021"
+description = "Ilm Al-Rijal Narrator Reliability & Jarh wa Ta'dil Scorer"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hadith_rs_rijal_jarh_tadil"
+path = "main.rs"
